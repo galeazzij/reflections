@@ -7,6 +7,7 @@ What value do you think it offers?
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	You can use the staging area by using git diff —-staged to show the change you made to a file and how it differs from the most recent commit.  You could also use git diff with no IDs to show the changes you made to the working file.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
