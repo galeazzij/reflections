@@ -14,6 +14,7 @@ organized? How would branches help?
 	Git would be helpful in keeping my history organized because I could use it to explore new ideas without having to worry about screwing up the original "main-line" code.  With branches I could do "experimental" hacks to see what works and what doesn't.  Almost like A/B testing.
 
 How do the diagrams help you visualize the branch structure?
+	They show where the new code branches off and also which changes are not reachable.  This gives some insight into where new branches may need to be created.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
