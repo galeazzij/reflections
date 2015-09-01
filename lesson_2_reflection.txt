@@ -11,6 +11,7 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Git would be helpful in keeping my history organized because I could use it to explore new ideas without having to worry about screwing up the original "main-line" code.  With branches I could do "experimental" hacks to see what works and what doesn't.  Almost like A/B testing.
 
 How do the diagrams help you visualize the branch structure?
 
