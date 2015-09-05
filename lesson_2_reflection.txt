@@ -22,3 +22,4 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+	The good thing about merging automatic merging is that is saves time. The bad thing is that it can be halted by having to review the code to see which changes were made.
